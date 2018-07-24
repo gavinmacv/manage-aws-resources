@@ -1,0 +1,23 @@
+Description
+Lab Overview
+Terraform allows you to safely manage your infrastructure by modifying configuration files. Terraform will show you an execution plan that you must approve before any infrastructure changes are applied. This Lab highlights several capabilities of Terraform that make managing infrastructure easy. You will learn how to import existing resources, understand configuration file interpolation syntax to reference resource attributes, and use variables to generalize configuration while you manage AWS resources with Terraform. 
+
+Lab Objectives
+Upon completion of this Lab you will be able to:
+
+Import existing resources into Terraform
+Use interpolation syntax to reference resource attributes in configurations
+Use variables to parameterize Terraform configurations
+Understand Terraform's concept of state
+Lab Prerequisites
+You should be familiar with:
+
+Working at the command-line in Linux
+Amazon VPC and EC2 basics
+Basic Terraform concepts such as resources, and state. It is highly recommended to complete the Create AWS Resources with Terraform Lab before attempting this Lab.
+Lab Environment
+Before completing the Lab instructions, the environment will look as follows:
+<blobid1-2d337596-65f1-4ac6-b592-f8292dacdd3f.png>
+
+After completing the Lab instructions, the environment should look similar to:
+<blobid2-97d81fdd-df0f-4ce9-ab89-b13fac8deeef.png>
